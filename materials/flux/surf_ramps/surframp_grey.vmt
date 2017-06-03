@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "flux/surf_ramps/surframp_grey"
+	$selfillum 1
+}
