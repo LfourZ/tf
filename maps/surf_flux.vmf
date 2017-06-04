@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7421"
-	"mapversion" "298"
+	"mapversion" "299"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "298"
+	"mapversion" "299"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -46120,7 +46120,7 @@ entity
 	"fogstart" "500.0"
 	"scale" "16"
 	"use_angles" "0"
-	"origin" "-7168 14336 13248"
+	"origin" "-7168 14336 13280"
 	editor
 	{
 		"color" "0 0 255"
